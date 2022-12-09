@@ -1,0 +1,53 @@
+body{
+    background: #cecece;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(34,34,34);
+}
+
+.conteiner{
+    width: 900px;
+    margin: 0 auto;
+}
+
+.caixa1{
+    text-align: center;
+}
+
+.foto-principal{
+    width: 200px;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    margin: 30px;
+    box-shadow: 0px 0px 10px #959595;
+}
+
+h1{
+    margin-bottom: 0;
+    margin-top: 10px;
+    letter-spacing: -1px;
+    font-family: PT SANSN narrow , sans-serif;
+}
+
+h2{
+    margin-top: 0;
+    font-style: italic;
+    color: rgb(73,73,73);
+    font-weight: 100;
+}
+
+p{
+    line-height: 25px;
+}
+
+.social-link{
+    text-decoration: none;
+}
+
+.sociaol-icon{
+    width: 20px;
+    
+}
+
+.instagran{
+    margin: 0 15px 0 15px;
+}
